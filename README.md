@@ -4,7 +4,7 @@ Pre-work for CodePath iOS app development course
 
 Submitted by: **Aishwar Gupta**
 
-**Introduction App** is an app that displays my name, university, and career path along with a button to change the background color to a random color everytime the button is clicked. [TODO] 
+**Introduction App** is an app that displays my name, university, and career path along with a button to change the background color to a random color every time the button is clicked. [TODO] 
 
 Time spent: **1** hours spent in total
 
@@ -30,9 +30,29 @@ GIF created with EZGIF.COM
 
 ## App Brainstorming (Step 4)
 
+App: **WhatsApp** 
+* Tabs on top to navigate through screens.
+* Camera button on top for quick access to the camera.
+
+App: **Instagram**
+* Easy access to the camera for quick upload of pictures.
+* Change the background color of the screen.
+
+App: **Telegram**
+* Delete old message.
+* Edit message after being sent.
+
+App: **Discord**
+* Easy navigation between servers and friends.
+* Edit/Delete the messages sent previously.
+
+App: **Facebook Messenger**
+* Show active users on top with their profile picture.
+* Show how long ago a user was active below their profile name.
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+Since this was my first time using Xcode for iOS development, I was confused with the layout of the IDE, but I was able to catch up quickly and complete the pre-work assignment.
 
 ## License
 
