@@ -4,7 +4,7 @@ Pre-work for CodePath iOS app development course
 
 Submitted by: **Aishwar Gupta**
 
-**Introduction App** is an app that displays my name, university, and career path along with a button to change the background color to a random color every time the button is clicked. [TODO] 
+**Introduction App** is an app that displays my name, university, and career path along with a button to change the background color to a random color every time the button is clicked.
 
 Time spent: **1** hours spent in total
 
@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/Aishwar-Gupta/My_First_iOS_App/blob/main/ezgif.com-video-to-gif.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with EZGIF.COM  
